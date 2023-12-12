@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/student.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "dest image of a desk with a laptop, notebook, and coffee";
 
 /**
  * Project list
@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Tic-Tac-oe-game-python-Project",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This tic tac toe game is designed using min-max Algorithm and it’s an unbeatable game that is coded in python. The first choice will always be taken by bot. The bot will use “X” symbol. The game can only be won by the bot or it will be drawn. You can use number from 1 to 9, positions are as follow: 1, 2, 3 4, 5, 6 7, 8, 9.",
+    url: "https://github.com/abdulwahidmalik/Tic-Tac-oe-game-python-Project",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Invest with Intelligence",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "In this project, we aim to build a web-based application that predicts the Success of a startup or business using a machine learning model",
+    url: "https://github.com/abdulwahidmalik/invest_with_intelligence",
   },
   {
-    title: "My Resume Site",
+    title: "Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      " I Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+    url: "https://orange-river-056c3f700.4.azurestaticapps.net/",
   },
   {
     title: "GitHub Codespaces and github.dev",
