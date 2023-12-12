@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "ABDUL WAHID",
-  title: "Fronted Developer & Projec Manager",
+  title: "Fronted Developer & Project Manager",
   email: "Abdul.Wahid@studentambassadors.com",
   gitHub: "abdulwahidmalik",
   instagram: "abdulwahid_02",
