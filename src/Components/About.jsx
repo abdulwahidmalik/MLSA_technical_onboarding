@@ -18,7 +18,7 @@ import React from "react";
  */
 import image from "../images/spidy.jpg";
 
-const imageAltText = "Spider Net abstract background";
+const imageAltText = " A Spider Net abstract background";
 
 /**
  * Sort description that expands on your title on the Home component.
